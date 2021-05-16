@@ -22,7 +22,7 @@ function showTime(){
         day = 'Cuma';
     }else if(day==6){
         day = 'Cumartesi';
-    }else if(day==7){
+    }else if(day==0){
         day = 'Pazar';
     }
 
